@@ -6,14 +6,20 @@ Jesse Pinkman in Breaking Bad Detection & Tracking using YOLO v7 Algorithm.
 
 A brief about the notebook:
 
-1-Data Reading
+1-Creating Directory
 
-2-Data Cleaning
+2-Cloning YoloV7 Repository
 
-3-Data Analysis
+3-Unzipping Data
 
-4-Data Pre-processing
+4-Checking for GPU
 
-5-Modeling and it's Evaluation
+5-Downloading Weights
+
+6-Training YOLO
+
+7-Detection
+
+8-Zipping the whole project
 
 ![](Detection/Screenshot%20(441).png)
