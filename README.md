@@ -1,4 +1,4 @@
-# Jesse-Pinkman-in-Breaking-Bad-Detection-using-YOLOv7
+# Jesse-Pinkman-in-Breaking-Bad-Detection-and-Tracking-using-YOLOv7
 
 New Computer Vision project.
 
